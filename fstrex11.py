@@ -4,7 +4,7 @@
 #Task1
 
 
-import re
+
 
 
 def replace_it(text):
@@ -13,4 +13,3 @@ def replace_it(text):
 
 
 print(replace_it ("A dogmatic dog buys dogecoin to become rich and buy hotdogs every day."))
-
