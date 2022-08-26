@@ -12,5 +12,5 @@ def replace_it(text):
 
 
 
-print(replace_it("A dogmatic dog buys dogecoin to become rich and buy hotdogs every day."))
+print(replace_it ("A dogmatic dog buys dogecoin to become rich and buy hotdogs every day."))
 
